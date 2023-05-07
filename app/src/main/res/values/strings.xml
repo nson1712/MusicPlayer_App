@@ -1,0 +1,33 @@
+<resources>
+
+
+    <string name="favorites">Favorites</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="playlist">Playlist</string>
+    <string name="total_songs">Total Songs:</string>
+    <string name="_00_00">00:00</string>
+    <string name="loading">Loading..</string>
+    <string name="repeat">Repeat</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="timer">Timer</string>
+    <string name="share">Share</string>
+    <string name="back">Back</string>
+    <string name="song_name">Song Name</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="song_album">Song Album</string>
+    <string name="app_icon">Icon</string>
+    <string name="text_nav">Welcom to$\n World of Music</string>
+    <string name="feedback">Feedback</string>
+    <string name="setting">Setting</string>
+    <string name="about">About</string>
+    <string name="Exit">Exit</string>
+    <string name="min_15">15 Minutes</string>
+    <string name="min_30">30 Minutes</string>
+    <string name="min_60">60 Minutes</string>
+    <string name="search_view">Search View</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
